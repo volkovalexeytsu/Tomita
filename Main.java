@@ -26,7 +26,7 @@ public class Main {
     }
 
 
-
+    //Функция для обработки факта
     public static String GlobalCase(Node eq) {
         NodeList eqProps = eq.getChildNodes(); //Подэлементы - параметры выражения
         //В зависимости от верхнего узла парсинга - корня грамматики
