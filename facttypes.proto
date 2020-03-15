@@ -1,0 +1,11 @@
+import "base.proto";
+import "facttypes_base.proto";
+
+
+message Sqrt: NFactType.TFact 
+{
+	optional string Recursion = 1;
+	required string Value = 2;
+}
+
+

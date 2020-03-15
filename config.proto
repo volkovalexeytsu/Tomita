@@ -1,0 +1,23 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "dic.gzt";
+  
+  PrettyOutput = "debug.html";
+
+  Input = {
+    Type = dpl;
+  }
+
+  Articles = [
+    { Name = "mat" }
+  ]
+
+  Facts = [
+{Name = "Sqrt" }
+  ]
+
+  Output = { 
+    Format = xml;
+  }
+}

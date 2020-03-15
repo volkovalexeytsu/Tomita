@@ -1,0 +1,12 @@
+encoding "utf8";
+
+import "base.proto";     
+import "articles_base.proto";
+import "kwtypes_my.proto";
+
+import "facttypes.proto";
+
+TAuxDicArticle "mat"
+{
+    key = { "tomita:bornin.cxx" type=CUSTOM }
+}

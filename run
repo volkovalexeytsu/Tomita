@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+rm -f *.class
+javac TomitaParser.java
+javac Main.java
+java Main
