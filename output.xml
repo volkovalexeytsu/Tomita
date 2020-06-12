@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdo_objects>
+	<document url="" di="1" bi="-1" date="2020-06-12">
+		<facts>
+			<Sqrt FactID="0" LeadID="0" FieldsInfo="n0;" pos="10" len="73" sn="0" fw="0" lw="16">
+				<Recursion val="КОРЕНЬ ИЗ КОРНЯ ИЗ КОРНЯ ИЗ 4 КОНЕЦ ПОДКОРНЯ КОНЕЦ ПОДКОРНЯ КОНЕЦ ПОДКОРНЯ" pos="10" len="73"/>
+				<Value val="4" pos="37" len="1"/>
+			</Sqrt>
+		</facts>
+		<Leads>
+			<Lead text="&lt;l&gt;&lt;h t=&quot;ya&quot; di=&quot;1&quot; u=&quot;&quot;&gt;&lt;d&gt;2020-06-12 14:50&lt;/d&gt;&lt;s&gt;stdin&lt;/s&gt;&lt;/h&gt;&lt;b&gt;&lt;s&gt;Корень из &lt;R n0=&quot;&quot; lemma=&quot;корень из корня из корня из 4 конец подкорня конец подкорня конец подкорня&quot;&gt;корня из корня из корня из 4 конец подкорня конец подкорня конец подкорня&lt;/R&gt; конец подкорня.&lt;/s&gt;&lt;/b&gt;&lt;/l&gt;" id="0" pos="0" len="99"/>
+		</Leads>
+	</document>
+</fdo_objects>
